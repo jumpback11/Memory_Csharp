@@ -1,0 +1,16 @@
+C:\Users\Power\Desktop\EVE Memory\Memory C#\Memory\Memory\bin\Debug\Memory.exe
+C:\Users\Power\Desktop\EVE Memory\Memory C#\Memory\Memory\bin\Debug\Memory.pdb
+C:\Users\Power\Desktop\EVE Memory\Memory C#\Memory\Memory\obj\x86\Debug\Memory.exe
+C:\Users\Power\Desktop\EVE Memory\Memory C#\Memory\Memory\obj\x86\Debug\Memory.pdb
+C:\Users\Power\Desktop\EVE Memory\Memory C#\Memory\Memory\obj\x86\Debug\Memory.csproj.GenerateResource.Cache
+C:\Users\Power\Desktop\EVE Memory\Memory C#\Memory\Memory\obj\x86\Debug\Memory.Properties.Resources.resources
+C:\Users\Power\Desktop\EVE Memory\Memory C#\Memory\Memory\obj\x86\Debug\Memory.csprojResolveAssemblyReference.cache
+C:\Users\Power\Desktop\EVE Memory\Memory C#\Memory\Memory\obj\x86\Debug\Memory.Board.resources
+C:\Users\Power\Desktop\Memory C#\Memory\Memory\obj\x86\Debug\Memory.exe
+C:\Users\Power\Desktop\Memory C#\Memory\Memory\obj\x86\Debug\Memory.pdb
+C:\Users\Power\Desktop\Memory C#\Memory\Memory\bin\Debug\Memory.exe
+C:\Users\Power\Desktop\Memory C#\Memory\Memory\bin\Debug\Memory.pdb
+C:\Users\Power\Desktop\Memory C#\Memory\Memory\obj\x86\Debug\Memory.csprojResolveAssemblyReference.cache
+C:\Users\Power\Desktop\Memory C#\Memory\Memory\obj\x86\Debug\Memory.Board.resources
+C:\Users\Power\Desktop\Memory C#\Memory\Memory\obj\x86\Debug\Memory.Properties.Resources.resources
+C:\Users\Power\Desktop\Memory C#\Memory\Memory\obj\x86\Debug\Memory.csproj.GenerateResource.Cache
